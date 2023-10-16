@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MakeUpProduct</string>
+    <string name="text_list_of_make_up">List of Make Up</string>
+    <string name="text_error_data_empty">Data is Empty</string>
+</resources>
